@@ -1,0 +1,7 @@
+Download and Save these two links in base folder ro execute YoLO
+https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.h5
+https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+
+
+Video Link
+https://youtu.be/dRc4lRdTqH0?si=-ugOgcX3UAQyMukI
